@@ -1,0 +1,3 @@
+[submodule "components/amy"]
+	path = components/amy
+	url = https://github.com/shorepine/amy

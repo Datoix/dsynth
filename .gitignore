@@ -1,0 +1,28 @@
+# ESP-IDF build output
+build/
+
+# Component manager
+managed_components/
+dependencies.lock
+
+# Kconfig backups
+sdkconfig.old
+sdkconfig.old.*
+sdkconfig.ci
+
+# Tooling / editor caches
+.cache/
+compile_commands.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
