@@ -1,3 +1,6 @@
+# Upstream AMY clone (see README)
+components/amy/
+
 # ESP-IDF build output
 build/
 
